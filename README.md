@@ -20,7 +20,7 @@
 
 ## ตัวอย่าง
 
-![Todo List Screenshot](./screenshot.png)
+![Todo List Screenshot](./image/screenshot.png)
 
 ---
 
