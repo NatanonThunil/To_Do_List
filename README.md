@@ -46,7 +46,7 @@
 - JavaScript
 - TypeScript
 - Expass.js
-
+- PostgreSQL
 
 ---
 
@@ -59,6 +59,7 @@ git clone https://github.com/NatanonThunil/To_Do_List.git
 cd To_Do_List
 #################### ตัวอย่าง env  ########################
 
+#ให้ สร้างไฟล์ .env ในโฟลเดอร์ Backend
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=Password
@@ -67,6 +68,7 @@ DB_PORT=3306
 PORT=3000
 
 ############################################################
+
 
 ```
 2. **ติดตั้ง :**
