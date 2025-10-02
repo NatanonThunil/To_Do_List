@@ -63,7 +63,7 @@ cd To_Do_List
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=Password
-DB_NAME=to_dolist
+DB_NAME=to_dolist  ## database name
 DB_PORT=3306
 PORT=3000
 
